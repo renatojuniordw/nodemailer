@@ -47,6 +47,6 @@ Após tudo configurado, execute a rota `http://localhost:3000/email/send` envian
 	"from": "from@example.com",
 	"to": "to@example.com",
 	"subject": "[nodemailer] Teste de e-mail",
-	"text": "Olá, estou te enviando esse e-mail através de um módulo do JavaScript."
+	"text": "Olá, estou te enviando esse e-mail através de um módulo do Node.js."
 }
 ```
